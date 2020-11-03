@@ -2,7 +2,7 @@
 I am Ashiq
 
 I am working on
-------------------
+---------------
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black)
@@ -17,12 +17,10 @@ I am working on
 
 I am currently focusing on
 --------------------------
-</br>
 <a href="https://github.com/ashiqqa/practice-ds-algo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=practice-ds-algo" width=350 height=200> </a> <a href="https://github.com/ashiqqa/hackerrank-solution"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=hackerrank-solution" width=350 height=200> </a>
 
 My statistics
 ---------------
-</br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ashiqqa&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqqa&hide=TeX&layout=compact)
 
@@ -30,7 +28,6 @@ My statistics
 
 How to reach me
 ---------------
-</br>
 [![Facebook Badge](https://img.shields.io/badge/-ashiqqa-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/ashiqqa/)](https://www.facebook.com/ashiqqa/)
 [![Twitter Badge](https://img.shields.io/badge/-ashiqqa-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/ashiqqa/)](https://twitter.com/ashiqqa/)
 [![Linkedin Badge](https://img.shields.io/badge/-ashiqqa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashiqqa/)](https://www.linkedin.com/in/ashiqqa/)
