@@ -1,8 +1,5 @@
 ### Hi there 😉
-
-**ashiqqa/ashiqqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h2 style="background:#0a0; color:#fff> I am Ashiq</h3>
 
 - 🔭 I’m currently working on .NET Core AND Angular-7
 - 🌱 I’m currently learning Advance C#
