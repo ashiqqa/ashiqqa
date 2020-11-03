@@ -1,5 +1,5 @@
 ### Hi there 😉
-<h2 style="background:#0a0; color:#fff> I am Ashiq</h3>
+<h3 style="background:#0a0; color:#fff">This is Ashiq</h3>
 
 - 🔭 I’m currently working on .NET Core AND Angular-7
 - 🌱 I’m currently learning Advance C#
