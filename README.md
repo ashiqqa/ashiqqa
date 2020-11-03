@@ -1,7 +1,8 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <strong>🔭 Currently focusing on...</strong>
-<a href="https://github.com/ashiqqa/practice-ds-algo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=practice-ds-algo" width=350> </a> <a href="https://github.com/ashiqqa/hackerrank-solution"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=hackerrank-solution" width=350> </a>
+</br>
+<a href="https://github.com/ashiqqa/practice-ds-algo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=practice-ds-algo" width=350 height=200> </a> <a href="https://github.com/ashiqqa/hackerrank-solution"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=hackerrank-solution" width=350 height=200> </a>
 
 ## Technologies
  ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
