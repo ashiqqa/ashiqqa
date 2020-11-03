@@ -8,11 +8,11 @@ I am working on
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&logo=angular&logoColor=white)
+![MSSQL](https://img.shields.io/badge/mssql-%2300f.svg?&logo=mssql&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&logo=bootstrap&logoColor=white)
-![MSSQL](https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23100000.svg?&logo=github&logoColor=white)
 
 I am currently focusing on
@@ -30,5 +30,5 @@ How to reach me
 ---------------
 [![Facebook Badge](https://img.shields.io/badge/-ashiqqa-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/ashiqqa/)](https://www.facebook.com/ashiqqa/)
 [![Twitter Badge](https://img.shields.io/badge/-ashiqqa-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/ashiqqa/)](https://twitter.com/ashiqqa/)
-[![Linkedin Badge](https://img.shields.io/badge/-ashiqqa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashiqqa/)](https://www.linkedin.com/in/ashiqqa/)
-[![Gmail Badge](https://img.shields.io/badge/-ashiq.mail.net@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashiq.mail.net@gmail.com)](mailto:ashiq.mail.net@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ashiqqa-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashiqqa/)](https://www.linkedin.com/in/ashiqqa/)
+[![Gmail Badge](https://img.shields.io/badge/-ashiq.mail.net@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:ashiq.mail.net@gmail.com)](mailto:ashiq.mail.net@gmail.com)
