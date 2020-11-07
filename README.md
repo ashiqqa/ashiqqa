@@ -13,7 +13,6 @@ I am working on
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&logo=bootstrap&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23100000.svg?&logo=github&logoColor=white)
 
 I am currently focusing on
 --------------------------
