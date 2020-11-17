@@ -28,6 +28,6 @@ My statistics
 How to reach me
 ---------------
 [![Facebook Badge](https://img.shields.io/badge/-ashiqqa-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/ashiqqa/)](https://www.facebook.com/ashiqqa/)
-[![Twitter Badge](https://img.shields.io/badge/-ashiqqa-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/ashiqqa/)](https://twitter.com/ashiqqa/)
+[![Twitter Badge](https://img.shields.io/badge/-ashiqqaa-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/ashiqqaa/)](https://twitter.com/ashiqqaa/)
 [![Linkedin Badge](https://img.shields.io/badge/-ashiqqa-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashiqqa/)](https://www.linkedin.com/in/ashiqqa/)
 [![Gmail Badge](https://img.shields.io/badge/-ashiq.mail.net@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:ashiq.mail.net@gmail.com)](mailto:ashiq.mail.net@gmail.com)
