@@ -16,7 +16,7 @@ I am working on
 
 I am currently focusing on
 --------------------------
-<a href="https://github.com/ashiqqa/practice-ds-algo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=practice-ds-algo" width=350 height=200> </a> <a href="https://github.com/ashiqqa/hackerrank-solution"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=hackerrank-solution" width=350 height=200> </a>
+<a href="https://github.com/ashiqqa/practice-ds-algo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=practice-ds-algo" width=350 height=200> </a> <a href="https://github.com/ashiqqa/numerical-analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=numerical-analysis" width=350 height=200> </a>
 
 My statistics
 ---------------
