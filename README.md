@@ -16,14 +16,14 @@ I am working on
 
 I am currently focusing on
 --------------------------
-<a href="https://github.com/ashiqqa/practice-ds-algo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=practice-ds-algo" width=350 height=200> </a> <a href="https://github.com/ashiqqa/numerical-analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqa&repo=numerical-analysis" width=350 height=200> </a>
+<a href="https://github.com/ashiqqs/practice-ds-algo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqs&repo=practice-ds-algo" width=350 height=200> </a> <a href="https://github.com/ashiqqs/numerical-analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashiqqs&repo=numerical-analysis" width=350 height=200> </a>
 
 My statistics
 ---------------
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ashiqqa&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqqa&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ashiqqs&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqqs&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ashiqqa.ashiqqa)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ashiqqs.ashiqqs)
 
 How to reach me
 ---------------
